@@ -1,2 +1,5 @@
 # Library-Database-Analysis
-This project focuses on designing and analyzing a Library Management Database using SQL to manage books, authors, borrowers, branches, and transactions. It involves creating a structured relational schema and executing complex SQL queries to track book availability, borrowing trends, and member activity. The project demonstrates how data-driven insights can support efficient library operations and better decision-making.
+Designed a relational database for books, authors, borrowers, and loans with proper keys to ensure data integrity.
+Developed complex SQL queries for availability, activity, and branch-wise stats.
+Analyzed trends and recommended inventory and engagement improvements for better decision-making.
+Strengthened skills in database design, query optimization, and reporting.
